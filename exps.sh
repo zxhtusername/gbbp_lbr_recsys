@@ -1,0 +1,1 @@
+PYTHONPATH=. python src/scripts/experiment.py --dataset=tafeng --model=boosting --num-trials=25 --batch_size=1000
